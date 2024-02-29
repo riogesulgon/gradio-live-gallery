@@ -2,7 +2,7 @@ import gradio as gr
 import os
 
 # set the directory where the images are located
-IMAGES_DIR = '.'
+IMAGES_DIR = ('./samples')
 
 
 def get_image_paths():
